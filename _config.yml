@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: greenforu # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 일상을 더 즐겁고 풍요롭게 만드는 실질적인 정보들로 가득한 블로그입니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   일상을 더 즐겁고 풍요롭게 만드는 실질적인 정보들로 가득한 블로그입니다.
